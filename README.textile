@@ -6,7 +6,7 @@ This project contains those tests.
 
 h3. More info
 
-I wrote a blog post about this, and the results, at "http://www.richardlord.net/blog/linked-list-performance-test":http://www.richardlord.net/blog/linked-list-performance-test.
+I wrote a blog post about this, and the results, at "http://www.richardlord.net/blog/actionscript/linked-list-performance-test.html":http://www.richardlord.net/blog/actionscript/linked-list-performance-test.html
 
 h3. Developer
 
